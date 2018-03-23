@@ -1,4 +1,4 @@
-public class NewDemo2 {
+public class NewDemo222222 {
     public static void main(String[] args) {
         System.out.println("成功了!!!!!!!!");
     }
